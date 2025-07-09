@@ -20,21 +20,59 @@ Welcome to **ShopZen**, a modern and responsive Flutter eCommerce application de
 
 ## 📸 Screenshots
 
-| Splash Screen                        | Onboarding                          | Sign In                            | Sign Up                            |
-|-------------------------------------|-------------------------------------|------------------------------------|------------------------------------|
-| ![](assets/screen_shots/splash_screen.png) | ![](assets/screen_shots/onboarding.png) | ![](assets/screen_shots/sign_in.png) | ![](assets/screen_shots/sign_up.png) |
+<table>
+  <tr>
+    <td><b>Splash Screen</b></td>
+    <td><b>Onboarding</b></td>
+    <td><b>Sign In</b></td>
+    <td><b>Sign Up</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screen_shots/splash_screen.png" width="200"/></td>
+    <td><img src="assets/screen_shots/onboarding.png" width="200"/></td>
+    <td><img src="assets/screen_shots/sign_in.png" width="200"/></td>
+    <td><img src="assets/screen_shots/sign_up.png" width="200"/></td>
+  </tr>
+</table>
 
-| Home                                | View All Products                   | Product Details                    | Cart                               |
-|-------------------------------------|-------------------------------------|------------------------------------|------------------------------------|
-| ![](assets/screen_shots/home.png)   | ![](assets/screen_shots/view_all.png) | ![](assets/screen_shots/product_details.png) | ![](assets/screen_shots/cart.png) |
+<table>
+  <tr>
+    <td><b>Home</b></td>
+    <td><b>View All</b></td>
+    <td><b>Product Details</b></td>
+    <td><b>Cart</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screen_shots/home.png" width="200"/></td>
+    <td><img src="assets/screen_shots/view_all.png" width="200"/></td>
+    <td><img src="assets/screen_shots/product_details.png" width="200"/></td>
+    <td><img src="assets/screen_shots/cart.png" width="200"/></td>
+  </tr>
+</table>
 
-| Checkout                            | Saved Items                         | Search                             | Account (EN)                       |
-|-------------------------------------|-------------------------------------|------------------------------------|------------------------------------|
-| ![](assets/screen_shots/check_out.png) | ![](assets/screen_shots/saved_items.png) | ![](assets/screen_shots/search.png) | ![](assets/screen_shots/account_en.png) |
+<table>
+  <tr>
+    <td><b>Checkout</b></td>
+    <td><b>Saved Items</b></td>
+    <td><b>Search</b></td>
+    <td><b>Account (EN)</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screen_shots/check_out.png" width="200"/></td>
+    <td><img src="assets/screen_shots/saved_items.png" width="200"/></td>
+    <td><img src="assets/screen_shots/search.png" width="200"/></td>
+    <td><img src="assets/screen_shots/account_en.png" width="200"/></td>
+  </tr>
+</table>
 
-| Account (AR)                        |
-|-------------------------------------|
-| ![](assets/screen_shots/account_ar.png) |
+<table>
+  <tr>
+    <td><b>Account (AR)</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screen_shots/account_ar.png" width="200"/></td>
+  </tr>
+</table>
 
 
 
