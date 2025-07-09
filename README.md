@@ -4,6 +4,8 @@ Welcome to **ShopZen**, a modern and responsive Flutter eCommerce application de
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7dWXOJUUv6Q" frameborder="0" allowfullscreen></iframe>
+
 ## 🚀 Features
 
 * 🔐 Firebase Authentication (Email + Password)
