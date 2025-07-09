@@ -20,6 +20,23 @@ Welcome to **ShopZen**, a modern and responsive Flutter eCommerce application de
 
 ## 📸 Screenshots
 
+| Splash Screen                  | Onboarding                    | Sign In                      | Sign Up                      |
+|--------------------------------|-------------------------------|------------------------------|------------------------------|
+| ![](screenshots/splash_screen.png) | ![](screenshots/onboarding.png) | ![](screenshots/sign_in.png) | ![](screenshots/sign_up.png) |
+
+| Home                           | View All Products             | Product Details              | Cart                          |
+|--------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| ![](screenshots/home.png)      | ![](screenshots/view_all.png) | ![](screenshots/product_details.png) | ![](screenshots/cart.png)     |
+
+| Checkout                       | Saved Items                   | Search                        | Account (EN)                  |
+|--------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| ![](screenshots/check_out.png) | ![](screenshots/saved_items.png) | ![](screenshots/search.png)    | ![](screenshots/account_en.png) |
+
+| Account (AR)                   |
+|--------------------------------|
+| ![](screenshots/account_ar.png) |
+
+
 
 > 📁 You can add your screenshots in the `/screenshots` folder.
 
