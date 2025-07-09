@@ -4,7 +4,15 @@ Welcome to **ShopZen**, a modern and responsive Flutter eCommerce application de
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7dWXOJUUv6Q" frameborder="0" allowfullscreen></iframe>
+<div style="text-align:center;">
+  <h3>🎥 ShopZen App Demo</h3>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/7dWXOJUUv6Q" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## 🚀 Features
 
