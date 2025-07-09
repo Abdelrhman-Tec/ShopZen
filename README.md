@@ -2,7 +2,6 @@
 
 Welcome to **ShopZen**, a modern and responsive Flutter eCommerce application designed to deliver a smooth and intuitive shopping experience. Built using **Flutter** with **Supabase**, **BLoC**, and *Clean Architecture principles*, ShopZen is tailored for both developers and users who value performance and design.
 
-
 <div style="text-align:center;">
   <h3>🎥 ShopZen App Demo</h3>
   <iframe width="560" height="315" 
