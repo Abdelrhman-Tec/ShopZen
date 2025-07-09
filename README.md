@@ -21,7 +21,6 @@ Welcome to **ShopZen**, a modern and responsive Flutter eCommerce application de
 ## 📸 Screenshots
 
 
-
 > 📁 You can add your screenshots in the `/screenshots` folder.
 
 ---
